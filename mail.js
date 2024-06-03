@@ -5,7 +5,7 @@ let transporter = nodemailer.createTransport({
   service: 'Outlook365',
   auth: {
     user: 'anandhakrishnan.21it@sonatech.ac.in',
-    pass: '12302Krishnan'
+    pass: 'your password'
   }
 });
 
